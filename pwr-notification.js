@@ -7,7 +7,7 @@ const TELEGRAM_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'; // Ganti dengan token bot Tele
 const CHAT_ID = 'YOUR_CHAT_ID'; // Ganti dengan ID pengguna Telegram
 
 // URL API
-const API_URL = 'https://pwrrpc.pwrlabs.io/validator/?validatorAddress=0x09Ca10C049b449037A77C11CAD0707265ca70A76';
+const API_URL = 'https://pwrrpc.pwrlabs.io/validator/?validatorAddress=YOUR_ADDRESS_PWR_VALIDATOR';
 
 // Variabel untuk menyimpan lastCreateBlock terakhir
 let lastProcessedBlock = null;
