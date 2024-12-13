@@ -14,7 +14,7 @@ cd PWR-Notification
 ```
 nano pwr-notification.js
 ```
-edit on bot token and telegram id
+edit on YOUR_ADDRESS_PWR_VALIDATOR, YOUR_TELEGRAM_BOT_TOKEN and YOUR_CHAT_ID
 save (CTRL+X Y enter)
 
 create screen
