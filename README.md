@@ -26,5 +26,11 @@ screen -S PWR
 node pwr-notification.js
 ```
 
+to check the log
+
+```
+screen -r PWR
+```
+
 save screen (CTRL+A D)
  
